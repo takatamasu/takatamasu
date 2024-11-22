@@ -4,12 +4,12 @@
 
 <!-- SECTION 2 - ABOUT ME -->
 
-## <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35px">  About me
+## <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" height="35px">   About me
 I'm a self-taught programmer girl who enjoys coding almost as much as spending time with dogs 🐶<br> As a passionate junior front-end developer I'm looking for exciting challenges and opportunities to make my mark in the digital world 👽 <br> I'm new to the world of programming, so feel free to give me some advice if you see something I should improve 🌱
 
 <!-- SECTION 3 - TECHNOLOLGIES AND TOOLS -->
 
-## <img src="https://camo.githubusercontent.com/d0839caaee087179aed17073b0e759f641b661c0cab81ef95e9846975c2091f8/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" height="35px">  Technologies and tools I'm currently learning / improving on </b>
+## <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" height="45px">   Technologies and tools I'm currently learning / improving on </b>
 
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="26" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="26" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
@@ -29,7 +29,7 @@ I'm a self-taught programmer girl who enjoys coding almost as much as spending t
 
 <!-- SECTION 4 - LITTLE REMINDER IMG-->
 
-## <img src="https://private-user-images.githubusercontent.com/74038190/238201075-34376b0e-4ae2-4278-9d3d-82e8016a87d6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTM5NzM2NjgsIm5iZiI6MTcxMzk3MzM2OCwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDEwNzUtMzQzNzZiMGUtNGFlMi00Mjc4LTlkM2QtODJlODAxNmE4N2Q2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDI0VDE1NDI0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcwNDU3MjMzMTU0ZmJjZmQxYmFlYWUwNjI3OTUxZWI3NGMyZmQ2MjM1YWQ0MGU0N2JiY2Y0YWFjNjA0NWRlNmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.xG7pjTPEkrYG2Q2C2j7uJnD83P3un1BN4qmAtq3NvtA" height="35px">  And a little reminder for me and everyone who has moments of doubt
+## <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" height="35px">  And a little reminder for me and everyone who has moments of doubt
 
 
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/236544207-c4f427b3-be04-4cfe-a3d2-2eabb0d2de73.gif" height="400px"></p>
